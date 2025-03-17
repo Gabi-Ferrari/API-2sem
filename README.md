@@ -24,7 +24,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 ![image](https://github.com/user-attachments/assets/5793abdd-b746-443e-901a-4ff9789b7c2c)
 
 # Objetivo do Projeto
->Descrever aqui os objetivos desse projeto
+TEMA: Concepção de um dispositivo de Tecnologia Assistiva para pessoas com dificuldades de movimentação/locomoção
 
 # Cronograma das Sprints
 
