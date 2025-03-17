@@ -9,8 +9,8 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Projeto (API)](#projeto-api)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
 * [Cronograma das Sprints](#cronograma-das-sprints)
+* [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
 * [Backlog do Produto](#backlog-do-produto)
 * [Burndown](#burndown)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
@@ -22,14 +22,15 @@ Uso de estratégias para entender o problema, conceber uma solução viável ao 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
 # Equipe
 ![image](https://github.com/user-attachments/assets/5793abdd-b746-443e-901a-4ff9789b7c2c)
-# Andamento das Sprints
+
+# Objetivo do Projeto
+>Descrever aqui os objetivos desse projeto
+
+# Cronograma das Sprints
 
 ![image](https://github.com/user-attachments/assets/1d7b0dc6-3216-4332-be2a-3d0cbcba1d37)
 
 > Possíveis status: a fazer, em progresso e concluido
-
-# Objetivo do Projeto
->Descrever aqui os objetivos desse projeto
 
 # Funcionalidades e Demonstrações das Sprints
 
