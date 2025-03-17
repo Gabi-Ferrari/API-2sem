@@ -23,7 +23,8 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 # Equipe
 ![image](https://github.com/user-attachments/assets/5793abdd-b746-443e-901a-4ff9789b7c2c)
 # Andamento das Sprints
-![image](https://github.com/user-attachments/assets/f17568bd-643f-4fa6-b89c-884ec6faf9c5)
+
+![image](https://github.com/user-attachments/assets/1d7b0dc6-3216-4332-be2a-3d0cbcba1d37)
 
 > Possíveis status: a fazer, em progresso e concluido
 
