@@ -72,11 +72,9 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 
 ## Backlog do produto
->Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
+![1](https://github.com/user-attachments/assets/bd6cd5f8-88cc-4382-8c4c-1608977486d9)
+![2](https://github.com/user-attachments/assets/790befb4-3776-4935-b92e-421f56294f65)
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
-</p>
 
 ## Burndown
 >Colocar aqui Burndown do projeto
