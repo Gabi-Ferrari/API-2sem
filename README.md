@@ -28,7 +28,7 @@ TEMA: Concepção de um dispositivo de Tecnologia Assistiva para pessoas com dif
 
 # Cronograma das Sprints
 
-![image](https://github.com/user-attachments/assets/1d7b0dc6-3216-4332-be2a-3d0cbcba1d37)
+![kick](https://github.com/user-attachments/assets/c6e4d875-c2b4-4fee-953b-d14ac05eea1d)
 
 > Possíveis status: a fazer, em progresso e concluido
 
