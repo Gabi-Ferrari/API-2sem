@@ -77,11 +77,8 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 
 ## Burndown
->Colocar aqui Burndown do projeto
+![image](https://github.com/user-attachments/assets/d985f330-c809-471c-a941-885416f63c0b)
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
-</p>
 
 ## Sprint 1 - Informacional
 -Pesquisa de Mercado
