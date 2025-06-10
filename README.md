@@ -70,13 +70,6 @@ Vídeo com a apresentação final da API do "semestre/ano"
 ### Mindset Digital
 > Liste todas as tecnologias referentes aos processos da API
 
-# Cronograma das Sprints
-
-## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
-
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
-
 
 ## Backlog do produto
 >Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
@@ -92,17 +85,26 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
 </p>
 
-## Sprint 1 - Concepção
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+## Sprint 1 - Informacional
+-Pesquisa de Mercado
+-Requisitos do produto
+-Normas técnicas e patentes
+-Benchmarking de mercado
+- Demais informações dutéis do produto
 
-## Sprint 2 - Desenvolvimento do Projeto
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+## Sprint 2 - Conceitual
+-Levantamento de Conceitos
+-Análise funcional
+-Cartas Morfológicas
+-Tomada de decisão estruturada
       
-## Sprint 3 - Implementação
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+## Sprint 3 - Detalhado
+-Dimensionamento
+-Projeto detalhado do produto
+-Matérias-primas
+-Definição de processos e tratamentos
       
-## Sprint 4 - Operacionalização
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+
 
 
 # Competências desenvolvidas
