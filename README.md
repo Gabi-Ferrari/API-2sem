@@ -62,13 +62,33 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 ## Tecnologias Utilizadas
 ### Produto 
-> Descreva aqui a parte do MVP referente a cada Sprint
+| Sprint   | Entrega Realizada                        | Ferramentas Utilizadas                    |
+| -------- | ---------------------------------------- | ----------------------------------------- |
+| Sprint 1 | Levantamento de informações e requisitos | Caderno, entrevistas, Google Forms, Word  |
+| Sprint 2 | Ideia inicial e rascunho do projeto      | Desenhos à mão, régua, papel quadriculado |
+| Sprint 3 | Projeto técnico detalhado e materiais    | Excel, régua, calculadora, AutoCAD básico |
+
 
 ### Tecnológias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
-  
+| Finalidade                | Ferramenta/Ferramenta Simples                 |
+| ------------------------- | --------------------------------------------- |
+| Organização das tarefas   | Quadro branco, planner, Trello (opcional)     |
+| Escrita de documentos     | Word, Google Docs, caderno                    |
+| Cálculos técnicos         | Calculadora, Excel, papel quadriculado        |
+| Desenho técnico           | AutoCAD básico, régua, compasso               |
+| Apresentações             | PowerPoint, Google Slides                     |
+| Armazenamento de arquivos | Pen drive, Google Drive                       |
+| Comunicação da equipe     | WhatsApp, reuniões presenciais ou Google Meet |
+
 ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
+| Prática Digital          | Aplicação Simples no Projeto                     |
+| ------------------------ | ------------------------------------------------ |
+| Organização em grupo     | Uso do WhatsApp para combinar tarefas e prazos   |
+| Armazenamento online     | Google Drive para salvar e compartilhar arquivos |
+| Planejamento simples     | Uso de quadro com post-its ou planner de papel   |
+| Criação de apresentações | PowerPoint para mostrar a evolução do projeto    |
+| Registro de atividades   | Anotações em caderno ou Google Docs              |
+
 
 
 ## Backlog do produto
@@ -103,7 +123,20 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 
 # Competências desenvolvidas
-> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
+- Planejamento de sprints e uso de ferramentas como Burndown Chart
+- Priorização de tarefas e gerenciamento de backlog
+- Elaboração de projeto detalhado (CAD 3D e desenhos técnicos)
+- Cálculo e dimensionamento de componentes
+- Interpretação e aplicação de normas técnicas (ABNT, ISO, NR-12)
+- Definição de roteiros de fabricação e montagem
+- Conhecimento sobre tratamentos térmicos e superficiais
+- Identificação e especificação de matérias-primas
+- Análise de viabilidade de uso de materiais alternativos
+- Criação de documentação técnica clara e objetiva (BOM, manuais, instruções)
+- Colaboração entre áreas (engenharia, produção, qualidade)
+- Participação em reuniões de revisão e tomada de decisões coletivas
+- Identificação de gargalos e antecipação de riscos no processo produtivo
+- Aplicação de critérios de sustentabilidade no uso de materiais e processos
 
 ## Hard Skill (saber tecnológico)
 <details>
