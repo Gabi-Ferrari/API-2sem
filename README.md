@@ -37,27 +37,23 @@ TEMA: Concepção de um dispositivo de Tecnologia Assistiva para pessoas com dif
 ## Sprint 1
 >Colocar o vídeo da apresentação
 
-[![SPRINT 1](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+https://youtu.be/9JDCnXilSJI
 
 
 ## Sprint 2
 >Colocar o vídeo da apresentação
 
-[![SPRINT 2](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+https://youtu.be/aiZ_YzviHuk
 
 ## Sprint 3
 >Colocar o vídeo da apresentação
 
-[![SPRINT 3](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+https://youtu.be/epz1ssT0R64
 
 
-## Sprint 4
->Colocar o vídeo da apresentação
-
-[![SPRINT 4](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
 
 
-## Apresentação final (se necessario)
+## Apresentação final - FEIRA DE SOLUÇÕES
 Vídeo com a apresentação final da API do "semestre/ano"
 >Colocar o vídeo da apresentação
 
